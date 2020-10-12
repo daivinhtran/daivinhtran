@@ -2,7 +2,7 @@
 
 I hope you are doing well and the sun shines wherever you are! 🌻
 
-I'm a software engineer, based in Atlanta. While striving for the best standards in all the work and being a good team player, I read daily for the wonders in life and write osccasionally to reflect.
+I'm a software engineer, based in Atlanta. While striving for the best standards in all the work and being a good team player, I read daily for the wonders in life and write occasionally to reflect.
 
 Date | Blog posts
 ------------ | -------------
