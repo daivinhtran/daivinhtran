@@ -12,6 +12,7 @@ May 2019 | [Failure is Crucial to My Growth](https://blog.usejournal.com/failure
 Aug 2018 | [My Three Months of Uber Ride](https://blog.usejournal.com/my-three-months-of-uber-ride-b70c574f60c4)
 Aug 2017 | [Intern Insight: Platform Team at PagerDuty](https://www.pagerduty.com/blog/intern-insight-platform-team/)
 
+![Sunrise in Danang (my hometown)](https://github.com/daivinhtran/daivinhtran/blob/main/vinh-tran-dDxro7gfE8Y-unsplash.jpg)
 
 <!--
 **daivinhtran/daivinhtran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
